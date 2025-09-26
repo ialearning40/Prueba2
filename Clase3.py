@@ -10,7 +10,7 @@ edad = "'40'"
 # COnsultar la posicion 
 name = 'Tatiana Mo'
 #print (name[-1])
-# Concanetacion 
+# Concantenacion 
 name = [1, 2, 3, 2]
 name2 = name.count(2)
 last_name = 'Tata Jimenez'
@@ -25,7 +25,6 @@ list = "hola tata"
 #print(list.find("tata"))
 # Clases datos numero flotante, entero y boleano
 x=10
-
 y = 1.2e6
 print(y)
 print(type(y))
@@ -37,7 +36,6 @@ b = 3
 #print (a-b)
 #print (a*b)
 #print (a/b)
-
 # tener la parte entera de la division
 print ("modulo", a % b)
 print (a//b)
